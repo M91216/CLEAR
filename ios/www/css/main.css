@@ -1,0 +1,50 @@
+/*
+//Michael Bain
+//1306
+//Advanced Scalable Data
+
+*/
+/*Homepage*/
+#display{background: #fff;color:#68838B;
+	
+}
+
+
+#back{background:#68838B;line-height:20px;
+	
+}
+#newFormHead{white-space:normal;
+
+	
+}
+/*Sampled or New*/
+#sampledBtn{width:155px;height:155px;margin-top:30px;margin-right:50px;margin-left:82px;line-height:130px;color:#fff;
+	
+}
+
+#newBtn{width:155px;height:155px;margin-left:82px;margin-top:40px;line-height:130px;color:#fff;;background:#68838B
+
+}
+/*NEW MUSIC*/
+#textarea-1{margin-bottom:20px;padding-bottom:35px;
+	
+}
+
+div#week1{background-color: #dcdcdc;
+	
+}
+p#myname{margin-left: 50%;color: #DDD;
+}
+.ui-page#form{background-color:#;
+}
+
+.ui-slider-handle{background-color:#ffA07A;
+	
+}
+.ui-page{
+background-color:#ffffff;
+
+}
+#btnDelete{width:20px;height:10px;
+	
+}
